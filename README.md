@@ -11,4 +11,5 @@ Project boilerplate for Centric Express 2019 training.
 4. Extract the project folder from the downloaded .zip file
 5. Enter the folder of the project *centric-express-2019-boilerplate-master\centricexpress2019*
 6. Open CMD / Powershell in the folder by keeping SHIFT + Right Click and select *Open CMD / Powershell window here*
-6. Run command *npm install* using the cmd in the folder of the repository to install dependencies
+7. Run command *npm install* using the cmd in the folder of the repository to install dependencies
+8. Install a code editor: Visual Studio Code - https://code.visualstudio.com/
